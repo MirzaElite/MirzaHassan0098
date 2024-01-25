@@ -1,7 +1,7 @@
-- 👋 Hi, I’m [Mirza](t.me/Mirzahub)
-- 👀 I’m interested in developing [Telegram Bots](t.me/mightyupdateshub)
+- 👋 Hi, I’m [Mirza](https://t.me/Mirzahub)
+- 👀 I’m interested in developing [Telegram Bots](https://t.me/mightyupdateshub)
 - 🌱 I’m currently learning Forex
-- 📫 How to reach me [Click here](t.me/Mirzahub)
+- 📫 How to reach me [Click here](https://t.me/Mirzahub)
 - ⚡ Fun fact: nthg lol 
 
 <!---
